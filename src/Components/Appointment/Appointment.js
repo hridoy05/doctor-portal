@@ -15,7 +15,7 @@ const Appointment = () => {
     }
 
     useEffect(() => {
-        fetch('http://localhost:4000/cart')
+        fetch('https://mysterious-spire-59017.herokuapp.com/cart')
             .then(res => res.json())
             .then(data => {
                 console.log(data)
@@ -33,7 +33,7 @@ const Appointment = () => {
                 />
             </div>
             <div className="text-center mt-5 ">
-                {date.toString()}
+                {/* {date.toString()} */}
             </div>
             <div className="row mt-5">
                 {

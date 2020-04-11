@@ -7,7 +7,7 @@ const PatientData = () => {
     const [data, setData] = useState([]);
 
 
-    fetch ('http://localhost:4000/data')
+    fetch ('https://mysterious-spire-59017.herokuapp.com/data')
     .then (res => res.json())
     .then(data => {
         console.log(data)
