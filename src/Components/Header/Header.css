@@ -1,0 +1,31 @@
+.header-container {
+    background: linear-gradient(-90deg, rgb(21, 21, 39) 30%, rgba(0, 0, 0, 0) 30%), url('https://i.ibb.co/JnbLCZ1/Mask-Group-2.png');
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+nav span {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+.banner {
+    margin-top: 200px;
+}
+
+button {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: aquamarine;
+    padding: 10px 15px;
+    color: black;
+}
+
+h2 p {
+    margin-left: 10px;
+}

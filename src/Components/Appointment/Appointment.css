@@ -1,0 +1,17 @@
+.calenderContainer {
+    background: linear-gradient(-90deg, rgb(21, 21, 39) 30%, rgba(0, 0, 0, 0) 30%), url('https://i.ibb.co/JnbLCZ1/Mask-Group-2.png');
+    font-family: 'Roboto', sans-serif;
+}
+
+.appointmentBody {
+    border: none;
+}
+
+.appointmentBody {
+    box-shadow: 0 5px 13px 0px #eae8e87a;
+}
+
+.btnAppointment {
+    background-color: aqua;
+    margin: 5px;
+}

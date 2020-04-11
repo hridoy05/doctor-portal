@@ -1,0 +1,19 @@
+.infoForm {
+    margin: 30px 100px;
+}
+
+.infoForm input {
+    display: block;
+    margin-top: 15px;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.infoForm select {
+    display: block;
+    margin-top: 15px;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
